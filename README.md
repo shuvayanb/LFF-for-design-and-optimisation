@@ -1,2 +1,2 @@
 # LFF-for-design-and-optimisation
-This repo is a collection of low fidelity approaches used for aerodynamic shape and design of various canonical configurations
+This repo is a collection of low fidelity framework (LFF) used for aerodynamic shape and design of various canonical configurations. The LFF specifically uses cost effective emperical relations or algebraic correlations to provide cost functions such as drag, ballistic coefficients for rocket nose cone, Mach number, static pressure for scramjet intakes, exit velocity nozzles, etc. 
